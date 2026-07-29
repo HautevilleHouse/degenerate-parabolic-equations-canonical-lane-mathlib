@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DegenerateParabolicEquationsCanonicalLaneLean
+
+-- Root module for the Degenerate Parabolic Equations package
+
+end DegenerateParabolicEquationsCanonicalLaneLean
+end HautevilleHouse
